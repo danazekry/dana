@@ -72,9 +72,8 @@ SalaryApp/
 
 The **Random Forest Classifier** gave the best performance and was used in deployment.
 
-## 🌐 Project voiceover
-https://drive.google.com/drive/folders/1vorFu0YqM2Tky73aAebQHvEt2m4d8Yfk?usp=sharing
----
+
+
 
 ## 🌐 How to Run Locally
 
